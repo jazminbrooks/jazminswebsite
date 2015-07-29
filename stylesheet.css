@@ -6,6 +6,35 @@ body{
 #breezyEnt{
 	font-style: italic;
 }
+h3{
+	text-decoration: underline;
+}
+#homePageInfo{
+	background-color: gray;
+	color:black;
+	border-radius: 15px;
+	width:85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#aboutSection{
+	margin-top:2px;
+	background-color: lime;
+	border-radius: 15px;
+	width:80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#contactInfoSection{
+	margin-top:2px;
+	background-color: lime;
+	color:black;
+	border-radius: 150px;
+	width:80%;
+	margin-left: auto;
+	margin-right: auto;
+	color:black;
+}
 ul{
 	padding: 0;
 	margin: 0;
