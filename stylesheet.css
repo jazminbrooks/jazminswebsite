@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+	color:lime;
+	text-align: center;
+}
+ul{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-align:center;
+}
+li{
+	display:inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+a{
+	color:white;
+	vertical-align: middle;
+	font-size: 40px;
+}
