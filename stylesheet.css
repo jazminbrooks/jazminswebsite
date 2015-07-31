@@ -1,18 +1,25 @@
 body{
 	background-color: black;
-	color:#ff1493;
+	color:#FFADB9;
 	text-align: center;
 }
 #breezyEnt{
 	font-style: italic;
 	font-weight: bold;
+	color:#00FFCC;
+}
+h1{
+	font-size: 40px;
 }
 h3{
 	text-decoration: underline;
 }
 
+#musicSection{
+	color:#00FFCC;
+}
 #homePageInfo{
-	color:black;
+	color:#00FFCC;
 	border-radius: 15px;
 	width:85%;
 	margin-left: auto;
@@ -24,24 +31,31 @@ h3{
 	width:80%;
 	margin-left: auto;
 	margin-right: auto;
-	color:white;
+	color:#00FFCC;
 	border-width: 4px;
 	border-style: solid;
-	border-color: #ff1493;
+	border-color: #FFADB9;
 	font-size:20px;
 
+
+}
+footer{
+	position: relative;
+	text-align: right;
+	bottom:0;
+	right:0;
 }
 #constructionNote{
-	color:white;
+	color:silver;
+	font-weight: normal;
 }
 #contactInfoSection{
 	margin-top:2px;
-	color:black;
 	border-radius: 15px;
 	width:80%;
 	margin-left: auto;
 	margin-right: auto;
-	color:#ff1493;
+	color:#00FFCC;
 	font-size: 150%;
 }
 ul{
@@ -56,7 +70,15 @@ li{
 	vertical-align: middle;
 }
 a{
-	color:lime;
+	color:black;
+	padding:4px;
+	line-height:40px;
 	vertical-align: middle;
 	font-size: 40px;
+	background-color: #FFADB9;
+	border-width: 4px;
+	border-style: solid;
+	border-color: silver;
+	border-radius:15px;
+	text-decoration: none;
 }
