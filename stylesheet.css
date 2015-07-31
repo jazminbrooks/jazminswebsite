@@ -1,16 +1,16 @@
 body{
-	background-color: black;
-	color:lime;
+	background-color: #2f4f4f;
+	color:#ff1493;
 	text-align: center;
 }
 #breezyEnt{
 	font-style: italic;
+	font-weight: bold;
 }
 h3{
 	text-decoration: underline;
 }
 #homePageInfo{
-	background-color: gray;
 	color:black;
 	border-radius: 15px;
 	width:85%;
@@ -18,22 +18,30 @@ h3{
 	margin-right: auto;
 }
 #aboutSection{
-	margin-top:2px;
-	background-color: lime;
+	margin:4px;
 	border-radius: 15px;
 	width:80%;
 	margin-left: auto;
 	margin-right: auto;
+	color:white;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #ff1493;
+	font-size:20px;
+
+}
+#constructionNote{
+	color:white;
 }
 #contactInfoSection{
 	margin-top:2px;
-	background-color: lime;
 	color:black;
-	border-radius: 150px;
+	border-radius: 15px;
 	width:80%;
 	margin-left: auto;
 	margin-right: auto;
-	color:black;
+	color:#ff1493;
+	font-size: 150%;
 }
 ul{
 	padding: 0;
@@ -47,7 +55,7 @@ li{
 	vertical-align: middle;
 }
 a{
-	color:white;
+	color:lime;
 	vertical-align: middle;
 	font-size: 40px;
 }
