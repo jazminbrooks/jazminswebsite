@@ -1,5 +1,6 @@
 body{
-	background-color: black;
+	background-image: url("colors2.jpg");
+	background-repeat: repeat;
 	color:#FFADB9;
 	text-align: center;
 }
@@ -7,6 +8,9 @@ body{
 	font-style: italic;
 	font-weight: bold;
 	color:#00FFCC;
+}
+audio{
+	height: 40px;
 }
 h1{
 	font-size: 40px;
@@ -17,46 +21,52 @@ h3{
 
 #musicSection{
 	color:#00FFCC;
-}
-#homePageInfo{
-	color:#00FFCC;
-	border-radius: 15px;
-	width:85%;
+	background-color: black;
+	border-radius: 30px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding:4px;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
-}
-#aboutSection{
-	margin:4px;
-	border-radius: 15px;
-	width:80%;
-	margin-left: auto;
-	margin-right: auto;
-	color:#00FFCC;
+
 	border-width: 4px;
 	border-style: solid;
 	border-color: #FFADB9;
-	font-size:20px;
-
-
 }
-footer{
-	position: relative;
-	text-align: right;
-	bottom:0;
-	right:0;
+#homePageInfo{
+	color:#00FFCC;
+	background-color: black;
+	border-radius: 30px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding:4px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFADB9;
 }
+
 #constructionNote{
 	color:silver;
 	font-weight: normal;
 }
 #contactInfoSection{
-	margin-top:2px;
-	border-radius: 15px;
-	width:80%;
+	color:#00FFCC;
+	background-color: black;
+	border-radius: 30px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding:4px;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
-	color:#00FFCC;
-	font-size: 150%;
+	font-size: 25px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #FFADB9;
 }
 ul{
 	padding: 0;
