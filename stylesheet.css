@@ -10,7 +10,14 @@ body{
 	color:#00FFCC;
 }
 audio{
-	height: 40px;
+	height: 50px;
+	border-color: blue;
+	border-width: 1px;
+	border-style: solid;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	padding-bottom: 4px;
+	padding-top: 1px;
 }
 h1{
 	font-size: 40px;
@@ -20,33 +27,33 @@ h3{
 }
 
 #musicSection{
-	color:#00FFCC;
+	color:orange;
 	background-color: black;
 	border-radius: 30px;
 	margin-top: 40px;
 	margin-bottom: 40px;
 	padding:4px;
-	width: 80%;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 
-	border-width: 4px;
+	border-width: 1px;
 	border-style: solid;
-	border-color: #FFADB9;
+	border-color: blue;
 }
 #homePageInfo{
-	color:#00FFCC;
+	color:orange;
 	background-color: black;
 	border-radius: 30px;
 	margin-top: 40px;
 	margin-bottom: 40px;
 	padding:4px;
-	width: 80%;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	border-width: 4px;
+	border-width: 1px;
 	border-style: solid;
-	border-color: #FFADB9;
+	border-color: blue;
 }
 
 #constructionNote{
@@ -54,19 +61,19 @@ h3{
 	font-weight: normal;
 }
 #contactInfoSection{
-	color:#00FFCC;
+	color:orange;
 	background-color: black;
 	border-radius: 30px;
 	margin-top: 40px;
 	margin-bottom: 40px;
 	padding:4px;
-	width: 80%;
+	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 25px;
-	border-width: 4px;
+	border-width: 1px;
 	border-style: solid;
-	border-color: #FFADB9;
+	border-color: blue;
 }
 ul{
 	padding: 0;
