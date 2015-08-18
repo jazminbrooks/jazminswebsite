@@ -19,6 +19,13 @@ audio{
 	padding-bottom: 4px;
 	padding-top: 1px;
 }
+#songSection{
+	border-color: #FFADB9;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 20px;
+	margin:4px;
+}
 h1{
 	font-size: 40px;
 }
