@@ -9,6 +9,9 @@ body{
 	font-weight: bold;
 	color:#00FFCC;
 }
+#selfPhoto{
+	height: 40%;
+}
 audio{
 	height: 50px;
 	border-color: blue;
