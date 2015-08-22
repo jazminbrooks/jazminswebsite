@@ -11,6 +11,7 @@ body{
 }
 #selfPhoto{
 	height: 40%;
+	max-width: 90%;
 }
 audio{
 	height: 50px;
